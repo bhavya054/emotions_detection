@@ -15,7 +15,7 @@ This project detects human emotions from facial images using the fer library in 
 
 - `emotion_detection.ipynb` – Main Colab notebook
 - `README.md` – Project overview
-- `requirements.txt` *(optional)* – Dependencies (can include `fer`, `opencv-python`, `matplotlib`)
+
 
 ## 🚀 How to Use (Colab)
 
